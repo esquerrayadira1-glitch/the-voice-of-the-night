@@ -20,6 +20,8 @@ Tecnologías utilizadas
 
 Lenguaje C.
 
+Bibliotecas y funciones de consola de Windows.
+
 Archivos de encabezado propios (colores.h y cuadro.h).
 
 Archivos del proyecto
